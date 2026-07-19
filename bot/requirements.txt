@@ -1,0 +1,15 @@
+pyTelegramBotAPI
+requests
+httpx
+colorama
+beautifulsoup4
+aiohttp
+pycountry
+python-telegram-bot==20.7
+# Leak by @VJF_X
+# Channel: https://t.me/hotmailLis
+urllib3
+fake-useragent
+tqdm
+telethon
+pysocks

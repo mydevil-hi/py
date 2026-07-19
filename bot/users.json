@@ -1,0 +1,117 @@
+{
+  "8762532793": {
+    "username": "VJF_X",
+    "first_name": "KAMIN",
+    "last_name": "",
+    "joined_at": "2026-07-19T02:17:37.319095",
+    "premium_until": "2026-07-19T12:23:29.054339",
+    "daily_used": 0,
+    "daily_reset": "2026-07-19",
+    "stats": {
+      "total_checked": 28703,
+      "total_hits": 143
+    },
+    "redeemed_keys": [
+      "HMB-A5KMBFU0F387YLC5VFYO"
+    ],
+    "banned": false,
+    "invite_count": 0,
+    "invite_code": "",
+    "referrer_id": null,
+    "claimed_invite_tiers": [],
+    "free_gift_lines": {
+      "lines": 0,
+      "expiry": null
+    },
+    "last_channel_verify_time": "2026-07-19T12:10:12.250933"
+  },
+  "6889847023": {
+    "username": "m_o_dj",
+    "first_name": "M7🎖️:",
+    "last_name": "بـايـو مـهـم ‼️",
+    "joined_at": "2026-07-19T02:58:21.244158",
+    "premium_until": null,
+    "daily_used": 0,
+    "daily_reset": "2026-07-19",
+    "stats": {
+      "total_checked": 0,
+      "total_hits": 0
+    },
+    "redeemed_keys": [],
+    "banned": false,
+    "invite_count": 0,
+    "invite_code": "",
+    "referrer_id": null,
+    "claimed_invite_tiers": [],
+    "free_gift_lines": {
+      "lines": 0,
+      "expiry": null
+    }
+  },
+  "7097229270": {
+    "username": "",
+    "first_name": "Whos",
+    "last_name": "",
+    "joined_at": "2026-07-19T03:14:10.367177",
+    "premium_until": null,
+    "daily_used": 7384,
+    "daily_reset": "2026-07-19",
+    "stats": {
+      "total_checked": 7384,
+      "total_hits": 0
+    },
+    "redeemed_keys": [],
+    "banned": false,
+    "invite_count": 0,
+    "invite_code": "",
+    "referrer_id": null,
+    "claimed_invite_tiers": [],
+    "free_gift_lines": {
+      "lines": 0,
+      "expiry": null
+    }
+  },
+  "8712163287": {
+    "username": "dyhddudhdh",
+    "first_name": "FOX",
+    "last_name": "",
+    "joined_at": "2026-07-19T03:22:29.359991",
+    "premium_until": null,
+    "daily_used": 7710,
+    "daily_reset": "2026-07-19",
+    "stats": {
+      "total_checked": 0,
+      "total_hits": 0
+    },
+    "redeemed_keys": [],
+    "banned": false,
+    "invite_count": 0,
+    "invite_code": "",
+    "referrer_id": null,
+    "claimed_invite_tiers": [],
+    "last_channel_verify_time": "2026-07-19T03:31:01.593812",
+    "free_gift_lines": {
+      "lines": 0,
+      "expiry": null
+    }
+  },
+  "8861288128": {
+    "username": "",
+    "first_name": "John",
+    "last_name": "Müller",
+    "joined_at": "2026-07-19T12:10:14.367530",
+    "premium_until": null,
+    "daily_used": 0,
+    "daily_reset": "2026-07-19",
+    "stats": {
+      "total_checked": 0,
+      "total_hits": 0
+    },
+    "redeemed_keys": [],
+    "banned": false,
+    "invite_count": 0,
+    "invite_code": "",
+    "referrer_id": null,
+    "claimed_invite_tiers": []
+  }
+}
